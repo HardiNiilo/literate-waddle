@@ -12,7 +12,9 @@
       "type": "Feature",
       "properties": {
         "GID_0": "EST",
-        "COUNTRY": "Estonia"
+        "COUNTRY": "Estonia",
+        "SHAPE_Length": 83978.56841218912,
+        "SHAPE_Area": 171996035.5259608
       },
       "geometry": {
         "type": "MultiPolygon",
